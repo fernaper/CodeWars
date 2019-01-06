@@ -1,6 +1,6 @@
 """
 	Solution of the problem
-	Valid Braces
+	String Mix
 	https://www.codewars.com/kata/5629db57620258aa9d000014
 
 	@author Fernando Pérez Gutiérrez <fernaperg@gmail.com>
