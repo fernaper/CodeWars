@@ -7,9 +7,9 @@
 """
 import math
 
-def get_mod(a, b) :
+def get_mod(a, b):
     mod = 0
-    for i in range(len(b)) :
+    for i in range(len(b)):
         mod = (mod * 10 + (int)(b[i])) % a
     return mod
 
